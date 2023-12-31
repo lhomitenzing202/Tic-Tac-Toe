@@ -1,13 +1,13 @@
 
 import './App.css'
-import Tictactoe from './Components/Tictactoe'
+import TicTacToe from "./Components/TicTacToe";
+
 
 function App() {
 
   return (
     <>
-     <Tictactoe/>
-
+    <TicTacToe/>
     </>
   )
 }
